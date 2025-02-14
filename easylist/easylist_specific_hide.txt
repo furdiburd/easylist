@@ -112,6 +112,8 @@ imagebam.com###aad-header-3
 kshow123.tv###ab-sider-bar
 travelpulse.com###ab_container
 uinterview.com###above-content
+gamesfree.com##div#prerollad
+gamesfree.com##div#flashgame:remove-attr(style)
 slideshare.net###above-recs-desktop-ad-sm
 smartertravel.com###above-the-fold-leaderboard
 jezebel.com,pastemagazine.com###above_logo
